@@ -14,3 +14,5 @@ if total_belanja > 50000:
     gratisongkir = total_belanja - 30000
     print ("Kamu mendapatkan gratis ongkir 30rb")
     print ("Jumlah Akhir belanja kamu : Rp.%s" % gratisongkir)
+
+#bug:yes
